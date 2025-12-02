@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "モブノデレラ",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-02T12:57:22.405577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モブノデレラ",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_モブノデレラ_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モブノデレラ",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_モブノデレラ_≠ME.txt"
+    }
+  ]
+}
